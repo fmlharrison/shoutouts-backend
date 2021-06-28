@@ -2,7 +2,6 @@
   "Shoutout": {
     "message": "string",
     "to": "string",
-    "from": "string",
-    "createdAt": "date"
+    "from": "string"
   }
 }
