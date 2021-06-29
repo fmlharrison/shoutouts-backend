@@ -41,6 +41,76 @@
       "to":"Chloe",
       "from":"Felix",
       "message":"Thanks for the kombucha, the watermelon was my fav."
+    },
+    {
+      "id":8,
+      "to":"Jenna",
+      "from":"Felix",
+      "message":"Smashing out a great lunch and learn! Amazing."
+    },
+    {
+      "id":9,
+      "to":"Jenna",
+      "from":"Josh",
+      "message":"For talking me through our logging this morning."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Felix"
+    },
+    {
+      "id": 2,
+      "name": "Chloe"
+    },
+    {
+      "id": 3,
+      "name": "Smudge"
+    },
+    {
+      "id": 4,
+      "name": "Eric"
+    },
+    {
+      "id": 5,
+      "name": "Chris"
+    },
+    {
+      "id": 6,
+      "name": "Josh"
+    },
+    {
+      "id": 7,
+      "name": "Alexey"
+    },
+    {
+      "id": 8,
+      "name": "Laurent"
+    },
+    {
+      "id": 9,
+      "name": "Keeley"
+    },
+    {
+      "id": 10,
+      "name": "Bill"
+    },
+    {
+      "id": 11,
+      "name": "Paul"
+    },
+    {
+      "id": 12,
+      "name": "Joe"
+    },
+    {
+      "id": 13,
+      "name": "Jenna"
+    },
+    {
+      "id": 14,
+      "name": "Alice"
     }
   ]
 }

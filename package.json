@@ -3,6 +3,6 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "start": "json-server db.json"
+    "start": "json-server ./db.json"
   }
 }
